@@ -1,9 +1,9 @@
 { "comment": "default public file",
 
 "911": {
- "name": "911.png",
- "x": -300,  "y": -1010,
- "width": 100, "height": 118
+  "name": "911.png",
+  "x": -300,  "y": -1010,
+  "width": 100, "height": 118
 }
 
 }
