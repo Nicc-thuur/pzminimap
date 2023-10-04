@@ -12,4 +12,10 @@
   "width": 512,  "height": 687
 }
 
+,"Minas": {
+  "name": "minas.png",
+  "x": -4096,  "y": 2894,
+  "width": 525, "height": 202
+}
+
 }
