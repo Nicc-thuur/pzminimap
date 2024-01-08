@@ -36,4 +36,10 @@
  "width": 308, "height": 99
 }
 
+,"sans": {
+ "name": "sans.png",
+ "x": 120,  "y": -380,
+ "width": 38, "height": 42
+}
+
 }
