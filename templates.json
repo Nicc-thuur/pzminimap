@@ -48,4 +48,10 @@
  "width": 23, "height": 31
 }
 
+,"snoopy": {
+ "name": "snoopy.png",
+ "x": -480,  "y": -397,
+ "width": 19, "height": 25
+}
+
 }
