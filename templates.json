@@ -42,4 +42,10 @@
  "width": 38, "height": 42
 }
 
+,"miranha": {
+ "name": "miranha.png",
+ "x": -402,  "y": -350,
+ "width": 23, "height": 31
+}
+
 }
