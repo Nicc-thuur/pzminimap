@@ -54,4 +54,10 @@
  "width": 19, "height": 25
 }
 
+,"catghost": {
+ "name": "catghost.png",
+ "x": -3658,  "y": 3098,
+ "width": 60, "height": 43
+}
+
 }
