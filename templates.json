@@ -60,22 +60,14 @@
  "width": 60, "height": 43
 }
 
-,"mgdomina": {
- "name": "mgdomina.png",
- "x": -3731,  "y": -2048,
- "width": 245, "height": 172
-}
-
-,"qsmp": {
- "name": "qsmp.png",
- "x": -3891,  "y": 3116,
- "width": 101, "height": 101
-}
-
 ,"pixelarts": {
  "name": "pixelarts.png",
  "x": -4077,  "y": 3156,
  "width": 144, "height": 67
 }
 
+,"Nic": {
+ "name": "Nic.png",
+ "x": 400,  "y": -679,
+ "width": 56, "height": 41
 }
